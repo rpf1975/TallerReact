@@ -1,0 +1,28 @@
+#bg {
+  
+    /*background-image: url("img/post-it-note.png"); */
+    background-color: burlywood;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 290px;
+    transform: rotate(-12deg);
+
+    
+  }
+  #bgI {
+
+    background-color: crimson;
+    /*background-image: url("img/sticky.png"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 290px;
+    transform: rotate(12deg);
+    
+  }
+
+#micard { 
+    margin-top: 20px;
+
+}
